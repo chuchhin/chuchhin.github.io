@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hola Paoo 
+title: Hola Pao! 
 ---
+ # Main
+Bienvenida a mi primer aticulo.
 
-Bienvenida.
+## Bienvenida al blog.
 
-##Seción
+Hola estoy probando crear un blog rápido para ti, ( Aquí iran tus letras )
 
-Hola estoy probando crear un blog rápido para ti.
+**Love u**
 
-XOXO
-
-###subseccion
-Seccion pequeña para escribir más cositas.
+### Notas importantes
+Aquí iran las 
