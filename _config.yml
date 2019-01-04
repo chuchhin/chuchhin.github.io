@@ -6,10 +6,10 @@
 name: Jesús Sánchez
 
 # Short bio or description (displayed in the header)
-description: Programando en algún lugar de Xalapa
+description: Programando en algún lugar del mundo.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/3122611?s=400&u=46d943a83fbdbfffa413ec442c12ac8d9b9f5afa&v=4
+avatar: https://i.stack.imgur.com/3nHcm.png?s=128&g=1
 
 #
 # Flags below are optional
@@ -22,12 +22,12 @@ footer-links:
   facebook:
   flickr:
   github: chuchhin
-  instagram:
-  linkedin:
+  instagram: chuchhin
+  linkedin:https://www.linkedin.com/in/jsanchezch/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: chuchhin
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/7015841/jesús-sánchez
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://barryclark.github.io
+url: http://jschdeveloper.github.io
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
